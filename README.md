@@ -9,7 +9,9 @@ EasyGPT是居于LLM大语言模型JAVA版智能体，提供开箱即用的数据
 <img width="1420" alt="image" src="https://github.com/user-attachments/assets/4d2ad8c1-7b52-4cc7-9f28-83a713668f8e">
 
 
-4、应用调试能力
+4、流程调试能力
+![image](https://github.com/user-attachments/assets/0e1c6aa3-05b9-4e8d-8fdb-f69db43d11cd)
+
 
 5、接口开放能力
 ![image](https://github.com/user-attachments/assets/413c0410-b882-47eb-8e4d-7093a2df1ef6)
