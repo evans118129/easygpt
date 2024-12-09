@@ -23,6 +23,7 @@ EasyGPT是居于LLM大语言模型JAVA版智能体，提供开箱即用的数据
 
 # 商务合作
 JAVA版本智能体平台，适合大型金融银行、保险、证券、医疗等JAVA体系公司，源代码交付，支持二次开发，本地化部署。高仿字节扣子平台（交互方式）。
+
 <img width="275" alt="image" src="https://github.com/user-attachments/assets/11a16d98-e7ff-4193-bde3-022a661b055b">
 
 
