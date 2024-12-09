@@ -15,7 +15,8 @@ EasyGPT是居于LLM大语言模型JAVA版智能体，提供开箱即用的数据
 <img width="1223" alt="image" src="https://github.com/user-attachments/assets/69e9ace8-5aa9-431e-b291-f3ef600abf50">
 
 
-如需获取，请添加微信
+# 商务合作
+
 <img width="275" alt="image" src="https://github.com/user-attachments/assets/11a16d98-e7ff-4193-bde3-022a661b055b">
 
 
